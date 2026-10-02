@@ -1,0 +1,21 @@
+{
+  "id": 37,
+  "title": "Bathroom Comfort Monitor Usage Analytics",
+  "repository_slug": "bathroom-comfort-monitor-usage-analytics",
+  "category": "Smart Home",
+  "platform": "Raspberry Pi Zero 2 W",
+  "platform_family": "python",
+  "difficulty": "Intermediate",
+  "estimated_hours": 24,
+  "connectivity": "Wi-Fi",
+  "components": [
+    "light sensor",
+    "RGB LED",
+    "door sensor"
+  ],
+  "scope": "Build a smart home prototype that uses light sensor, RGB LED, door sensor to summarize daily and weekly usage. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Usage Analytics demonstration with repeatable test steps",
+  "mode": "data_logger",
+  "entrypoint": "src/main.py",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
